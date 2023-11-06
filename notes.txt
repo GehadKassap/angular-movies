@@ -1,0 +1,14 @@
+1- generate modules :
+ ng g m module-name
+
+
+
+
+ *****************************
+
+ classes ===> purposes 
+ decorator ===> function hold meta info about class
+ @
+
+ declarations ===> array introduce components to module
+ providers ==> array of services (data)
