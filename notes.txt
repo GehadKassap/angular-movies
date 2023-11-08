@@ -12,3 +12,29 @@
 
  declarations ===> array introduce components to module
  providers ==> array of services (data)
+
+ *****************************
+
+
+ task :: 
+ custimize navbar 
+ add routing to navbar
+
+custimize for footer
+custimize for card of movie
+
+movie details 
+https://developer.themoviedb.org/reference/movie-details
+
+
+
+
+
+share data
+service 
+
+
+observable ==> يمكن ادركه
+
+https://rxjs.dev/
+
